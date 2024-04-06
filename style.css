@@ -19,8 +19,8 @@ body {
 
 .text {
     background: white;
-    width: 900px;
-    height: 70px;
+    width: fit-content;
+    height: fit-content;
     display: flex;
     justify-content: center;
     align-items: center;
